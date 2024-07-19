@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\VisualStudioProjects\\YouTubeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Controllers\\AppointmentController.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "YouTubeApp\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:35:35.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Views\\Appointment\\Create.cshtml",
+              "RelativeDocumentMoniker": "YouTubeApp\\Views\\Appointment\\Create.cshtml",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Views\\Appointment\\Create.cshtml",
+              "RelativeToolTip": "YouTubeApp\\Views\\Appointment\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-19T04:10:53.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Program.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Program.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Program.cs",
+              "RelativeToolTip": "YouTubeApp\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:52:33.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "YouTubeApp\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:45:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Repositories\\PatientRepository.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "YouTubeApp\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T06:09:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "YouTubeApp\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T12:15:19.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Models\\Appointment.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Appointment.cs",
+              "RelativeToolTip": "YouTubeApp\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T07:00:17.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Models\\Patient.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Patient.cs",
+              "RelativeToolTip": "YouTubeApp\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T06:58:13.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
