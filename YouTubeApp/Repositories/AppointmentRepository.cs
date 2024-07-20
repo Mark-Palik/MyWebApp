@@ -19,12 +19,6 @@ namespace YouTubeApp.Repositories
         public void CreateAppointment(Appointment appointment)
         { 
             _context.Appointments.Add(appointment);
-            SaveChanges();
-        }
-        public void CreateAppointmentWithPatient(Patient patient, Appointment appointment)
-        {
-            appointment.Patient = patient;
-            _context.SaveChanges();
         }
         public void SaveChanges()
         {

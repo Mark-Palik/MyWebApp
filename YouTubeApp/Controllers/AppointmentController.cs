@@ -25,11 +25,12 @@ namespace YouTubeApp.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create([FromForm] Appointment appointment, [FromForm] Patient patient)
+        public IActionResult Create(PatientAppointment patientAppointment)
         {
-            _patientRepository.CreatePatientWithAppointment(patient,appointment);
+            _patientRepository.CreatePatient(patientAppointment.Patient);
+            patientAppointment.Patient.Appointment = patientAppointment.Appointment;
             _patientRepository.SaveChanges();
-            _appointmentRepository.CreateAppointmentWithPatient(patient,appointment);
+            _appointmentRepository.CreateAppointment(patientAppointment.Appointment);
             _appointmentRepository.SaveChanges();
             
             return RedirectToAction("Index");

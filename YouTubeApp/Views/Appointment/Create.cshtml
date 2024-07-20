@@ -3,10 +3,7 @@
 @model PatientAppointment
 
 <form asp-action="Create" asp-controller="Appointment">
-    <div class="form-group">
-        <label asp-for="Patient.PatientId" class="control-label">Id пациента</label>
-        <input type="number" asp-for="Patient.PatientId" class="form-control" />
-    </div>
+
     <div class="form-group">
         <label asp-for="Patient.FirstName" class="control-label">Имя</label>
         <input type="text" asp-for="Patient.FirstName" class="form-control" />
@@ -29,12 +26,9 @@
     </div>
     <div class="form-group">
         <label asp-for="Appointment.TimeOfVisit" class="control-label">Дата приёма</label>
-        <input type="datetime" asp-for="Appointment.TimeOfVisit" class="form-control" />
+        <input type="datetime-local" asp-for="Appointment.TimeOfVisit" name="Time Of Visit" id="TimeOfVisit" data-date-format="{0:yyyy-MM-dd HH}" asp-format="{0:yyyy-MM-dd HH}" class="form-control" />
     </div>
-    <div class="form-group">
-        <label asp-for="Appointment.AppointmentId" class="control-label">Id приёма</label>
-        <input type="number" asp-for="Appointment.AppointmentId" class="form-control" />
-    </div>
+
     <div class="form-group">
         <input type="submit" value="Отправить" class="btn btn-default" />
     </div>

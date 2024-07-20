@@ -6,6 +6,6 @@ namespace YouTubeApp.Interfaces
         IEnumerable<Appointment> GetAllAppointments();
         void CreateAppointment(Appointment appointment);
         void SaveChanges();
-         void CreateAppointmentWithPatient(Patient patient, Appointment appointment);
+
     }
 }

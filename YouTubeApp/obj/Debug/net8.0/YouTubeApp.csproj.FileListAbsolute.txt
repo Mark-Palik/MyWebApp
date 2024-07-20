@@ -134,3 +134,4 @@ J:\VisualStudioProjects\YouTubeApp\YouTubeApp\obj\Debug\net8.0\refint\YouTubeApp
 J:\VisualStudioProjects\YouTubeApp\YouTubeApp\obj\Debug\net8.0\YouTubeApp.pdb
 J:\VisualStudioProjects\YouTubeApp\YouTubeApp\obj\Debug\net8.0\YouTubeApp.genruntimeconfig.cache
 J:\VisualStudioProjects\YouTubeApp\YouTubeApp\obj\Debug\net8.0\ref\YouTubeApp.dll
+J:\VisualStudioProjects\YouTubeApp\YouTubeApp\obj\Debug\net8.0\YouTubeApp.sourcelink.json
