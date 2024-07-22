@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|solutionrelative:youtubeapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{830FE945-67F1-48C2-9A01-8DD67A366EFF}|YouTubeApp\\YouTubeApp.csproj|j:\\visualstudioprojects\\youtubeapp\\youtubeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,8 +29,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 224,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 170,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,16 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AppointmentController.cs",
               "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Controllers\\AppointmentController.cs",
               "RelativeDocumentMoniker": "YouTubeApp\\Controllers\\AppointmentController.cs",
               "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Controllers\\AppointmentController.cs",
               "RelativeToolTip": "YouTubeApp\\Controllers\\AppointmentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAMAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvxwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T02:35:35.389Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "YouTubeApp\\Data\\AppDbContext.cs",
+              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "YouTubeApp\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T19:19:27.901Z"
             },
             {
               "$type": "Document",
@@ -61,67 +69,40 @@
               "RelativeDocumentMoniker": "YouTubeApp\\Views\\Appointment\\Create.cshtml",
               "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Views\\Appointment\\Create.cshtml",
               "RelativeToolTip": "YouTubeApp\\Views\\Appointment\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-19T04:10:53.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Program.cs",
               "RelativeDocumentMoniker": "YouTubeApp\\Program.cs",
               "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Program.cs",
               "RelativeToolTip": "YouTubeApp\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAIAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T06:52:33.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-18T06:52:33.562Z"
             }
           ]
         },
         {
-          "DockedWidth": 176,
+          "DockedWidth": 164,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppointmentRepository.cs",
-              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\AppointmentRepository.cs",
-              "RelativeDocumentMoniker": "YouTubeApp\\Repositories\\AppointmentRepository.cs",
-              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Repositories\\AppointmentRepository.cs",
-              "RelativeToolTip": "YouTubeApp\\Repositories\\AppointmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T12:15:19.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Appointment.cs",
               "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "YouTubeApp\\Models\\Appointment.cs",
               "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Appointment.cs",
               "RelativeToolTip": "YouTubeApp\\Models\\Appointment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T07:00:17.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Patient.cs",
-              "DocumentMoniker": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Patient.cs",
-              "RelativeDocumentMoniker": "YouTubeApp\\Models\\Patient.cs",
-              "ToolTip": "J:\\VisualStudioProjects\\YouTubeApp\\YouTubeApp\\Models\\Patient.cs",
-              "RelativeToolTip": "YouTubeApp\\Models\\Patient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T06:58:13.705Z",
+              "WhenOpened": "2024-07-22T01:25:57.342Z",
               "EditorCaption": ""
             }
           ]
