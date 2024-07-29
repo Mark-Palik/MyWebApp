@@ -14,6 +14,16 @@ namespace YouTubeApp.Controllers
         {
             return View(_repository.GetAllPatients());
         }
+        public IActionResult Edit(int? id)
+        {
+            Patient patient = _repository.GetPatientById(id);
+            return View(patient);
+        }
+        public IActionResult Edit(Patient patient)
+        {
+            _repository.
+            return View();
+        }
         public IActionResult Create()
         {
             return View();

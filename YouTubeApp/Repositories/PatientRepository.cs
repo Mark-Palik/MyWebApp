@@ -12,7 +12,10 @@ namespace YouTubeApp.Repositories
         {
             _context = context;
         }
-
+        public Patient GetPatientById(int? id)
+        {
+            return _context.Patients.Find(id);
+        }
         public void CreatePatient(Patient patient)
         {
             _context.Patients.Add(patient);

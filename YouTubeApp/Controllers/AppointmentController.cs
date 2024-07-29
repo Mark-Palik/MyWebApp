@@ -18,20 +18,17 @@ namespace YouTubeApp.Controllers
         { 
             return View(_appointmentRepository.GetAllAppointments());
         }
-        public IActionResult Create()
+        public IActionResult Create(string searchString)
         {
-            PatientAppointment patientAppointment = new PatientAppointment();
-            return View(patientAppointment);
+            var patients = _patientRepository.GetAllPatients();
+            patients = patients.Where(p => p.LastName.Contains(searchString));
+            return View(patients);
         }
 
         [HttpPost]
-        public IActionResult Create(PatientAppointment patientAppointment)
+        public IActionResult Create(Appointment appointment)
         {
-            _patientRepository.CreatePatient(patientAppointment.Patient);
-            patientAppointment.Patient.Appointment = patientAppointment.Appointment;
-            _patientRepository.SaveChanges();
-            _appointmentRepository.CreateAppointment(patientAppointment.Appointment);
-            _appointmentRepository.SaveChanges();
+            
             
             return RedirectToAction("Index");
         }

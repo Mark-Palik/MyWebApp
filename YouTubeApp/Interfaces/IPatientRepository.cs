@@ -7,6 +7,7 @@ namespace YouTubeApp.Interfaces
         IEnumerable<Patient> GetAllPatients();
         public void SaveChanges();
         public void CreatePatient(Patient patient);
+        public Patient GetPatientById(int? id);
 
     }
 }
