@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YouTubeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9312b0376ca0e85cf5414ea42c359488ffb6d7d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bc86ce51d6235da6989e5298a4c8da651e8563f")]
 [assembly: System.Reflection.AssemblyProductAttribute("YouTubeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YouTubeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

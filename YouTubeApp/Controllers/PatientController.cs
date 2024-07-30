@@ -19,11 +19,13 @@ namespace YouTubeApp.Controllers
             Patient patient = _repository.GetPatientById(id);
             return View(patient);
         }
+        [HttpPost]
         public IActionResult Edit(Patient patient)
         {
-            _repository.
-            return View();
+            _repository.EditPatient(patient);
+            return RedirectToAction("Index");
         }
+        
         public IActionResult Create()
         {
             return View();
@@ -34,6 +36,19 @@ namespace YouTubeApp.Controllers
             _repository.CreatePatient(patient);
              _repository.SaveChanges();
             return RedirectToAction("Index");
+        }
+        public async Task<IActionResult> Delete(int? id)
+        {
+        if (id != null)
+        {
+            Patient? patient =  _repository.GetPatientById(id);
+            if (patient != null)
+            {
+                _repository.Remove(patient);
+                return RedirectToAction("Index");
+            }
+        }
+        return NotFound();
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using YouTubeApp.Data;
 using YouTubeApp.Interfaces;
 using YouTubeApp.Models;
@@ -29,5 +30,15 @@ namespace YouTubeApp.Repositories
         {
             _context.SaveChanges();
         }
-    }
+        public void EditPatient(Patient patient)
+        {
+            _context.Patients.Update(patient);
+            _context.SaveChanges();
+        }
+        public void Remove(Patient patient)
+        {
+            _context.Patients.Remove(patient);
+            SaveChanges();
+        }
+}
 }
